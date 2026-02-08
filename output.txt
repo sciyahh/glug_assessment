@@ -1,0 +1,273 @@
+OBC Cell
+             </div>
+            </a>
+           </li>
+          </ul>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </section>
+  <footer>
+   <div class="container">
+    <div class="footer-link">
+     <ul hi'="" https:="" style="display:flex;flex-direction:row;justify-content:center;align-items:center;flex-wrap:wrap;&gt;&lt;li &gt;&lt;a href=" target="_blank" www.education.gov.in="">
+      Ministry of Education
+      <li>
+       <a href="https://placement.nitdgp.ac.in" target="_blank">      
+        Training and Placement Cell
+       </a>
+      </li>
+      <li>
+       <a href="https://nitdgp.ac.in/uploads/Academic_Calendar_2025-26.pdf" target="_blank">
+        Academic Calendar
+       </a>
+      </li>
+      <li>
+       <a href="https://nitdgp.ac.in/p/tendersnitd">
+        Tenders
+       </a>
+      </li>
+      <li>
+       <a href="https://nitdgp.ac.in/p/noticesnitd">
+        Notices
+       </a>
+      </li>
+      <li>
+       <a href="https://nitdgp.ac.in/p/downloads">
+        Downloads
+       </a>
+      </li>
+      <li>
+       <a href="https://nitdgp.ac.in/p/careers">
+        Careers
+       </a>
+      </li>
+      <li>
+       <a href="https://nitdgp.ac.in/p/holidays">
+        Holidays
+       </a>
+      </li>
+      <li>
+       <a href="https://nitdgp.ac.in/p/nirf">
+        NIRF
+       </a>
+      </li>
+      <li>
+       <a href="https://nitdgp.ac.in/p/nad">
+        NAD
+       </a>
+      </li>
+      <li>
+       <a href="https://gate2026.iitg.ac.in/index.html" target="_blank">
+        GATE 2026
+       </a>
+      </li>
+      <li>
+       <a href="https://jam2026.iitb.ac.in/" target="_blank">
+        JAM 2026
+       </a>
+      </li>
+      <li>
+       <a href="https://josaa.nic.in/" target="_blank">
+        JOSAA
+       </a>
+      </li>
+      <li>
+       <a href="https://nitdgp.ac.in/archive.html">
+        Archives
+       </a>
+      </li>
+      <li>
+       <a href="https://nitdgp.ac.in/p/notices-2/anti-ragging-information">
+        Anti-Ragging Information
+       </a>
+      </li>
+      <li>
+       <a href="http://172.16.56.3/internalnotice/" target="_blank">  
+        Intranet
+       </a>
+      </li>
+      <li>
+       <a href="https://nitdgp.ac.in/p/photos-and-videos">
+        Photos and Videos
+       </a>
+      </li>
+     </ul>
+     <div class="clearfix">
+     </div>
+    </div>
+    <div class="footer-link">
+     <ul style="display:flex; flex-direction:row; align-items:center; justify-content:center;">
+      <li>
+       <a href="https://www.facebook.com/nitdgpofficial" target="_blank">
+        <i aria-hidden="true" class="fa fa-facebook-official fa-2x">  
+        </i>
+       </a>
+      </li>
+      <li>
+       <a href="https://x.com/nit_durgapur" target="_blank">
+        <i aria-hidden="true" class="fa fa-twitter-square fa-2x">     
+        </i>
+       </a>
+      </li>
+      <li>
+       <a href="https://www.instagram.com/nit.dgr/" target="_blank">  
+        <i aria-hidden="true" class="fa fa-instagram fa-2x">
+        </i>
+       </a>
+      </li>
+      <li>
+       <a href="https://www.youtube.com/@nitdurgapurofficialsocialm5943" target="_blank">
+        <i aria-hidden="true" class="fa fa-youtube-square fa-2x">     
+        </i>
+       </a>
+      </li>
+     </ul>
+     <div class="clearfix">
+     </div>
+    </div>
+    <div class="gov-logo">
+     <ul style="display:flex;flex-direction:row;align-items:center;justify-content:center;">
+      <li>
+       <a class="confirmationleavingthesite" href=" https://nitdgp.ac.in/uploads/userfiles/images/ARIIA Report-2023.pdf" target="_blank">   
+        <img alt="1" class="img-fluid" src="https://nitdgp.ac.in/uploads/b96b68dca38b191b213953b7b37a0210.jpg"/>
+       </a>
+      </li>
+      <li>
+       <a class="confirmationleavingthesite" href="https://www.india.gov.in/" target="_blank">
+        <img alt="1" class="img-fluid" src="https://nitdgp.ac.in/uploads/c98f336270c6545727fbcc1c21741549.png"/>
+       </a>
+      </li>
+      <li>
+       <a class="confirmationleavingthesite" href="https://www.mygov.in/" target="_blank">
+        <img alt="1" class="img-fluid" src="https://nitdgp.ac.in/uploads/40beccb2f78f531155406f385dec86e7.png"/>
+       </a>
+      </li>
+      <li>
+       <a class="confirmationleavingthesite" href="https://digitalindia.gov.in" target="_blank">
+        <img alt="1" class="img-fluid" src="https://nitdgp.ac.in/uploads/75aa14bdd69ad4f20222f864082e1295.png"/>
+       </a>
+      </li>
+      <li>
+       <a class="confirmationleavingthesite" href="https://svp.eci.gov.in/" target="_blank">
+        <img alt="1" class="img-fluid" src="https://nitdgp.ac.in/uploads/69287dc8cec9d987555e77bc04ae1b99.png"/>
+       </a>
+      </li>
+      <li>
+       <a class="confirmationleavingthesite" href="https://swachhbharatmission.ddws.gov.in/" target="_blank">
+        <img alt="1" class="img-fluid" src="https://nitdgp.ac.in/uploads/01be1d90a4fcdf10ab98da8c6c43b029.png"/>
+       </a>
+      </li>
+      <li>
+       <a class="confirmationleavingthesite" href="https://www.data.gov.in" target="_blank">
+        <img alt="1" class="img-fluid" src="https://nitdgp.ac.in/uploads/7fab7c62992a7a88a278dda2a8e89673.png"/>
+       </a>
+      </li>
+      <li>
+       <a class="confirmationleavingthesite" href="https://rti.gov.in" target="_blank">
+        <img alt="1" class="img-fluid" src="https://nitdgp.ac.in/uploads/db2afb126bfd9f97564c625d0c04cf32.png"/>
+       </a>
+      </li>
+     </ul>
+     <div class="clearfix">
+     </div>
+    </div>
+   </div>
+   <div class="copy-right-section">
+    <div class="container">
+     <div class="row">
+      <div class="col-lg-4">
+       Last updated: 2026-02-08 16:38:57
+      </div>
+      <div class="col-lg-4 text-center">
+       © 2018 Copyright: nitdgp.ac.in
+      </div>
+      <!-- <div class="col-lg-4 text-right">Visitors Count: <span id="cntr">0</span></div>  -->
+     </div>
+    </div>
+   </div>
+  </footer>
+  <!-- Optional JavaScript -->
+  <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+  <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script> -->
+  <script src="https://nitdgp.ac.in/front/assets/js/jquery.min.js">   
+  </script>
+  <script src="https://nitdgp.ac.in/front/assets/MDB-Free_4.20.0/js/popper.min.js">
+  </script>
+  <script src="https://nitdgp.ac.in/front/assets/MDB-Free_4.20.0/js/bootstrap.min.js">
+  </script>
+  <!-- MDB core JavaScript -->
+  <script src="https://nitdgp.ac.in/front/assets/MDB-Free_4.20.0/js/mdb.min.js" type="text/javascript">
+  </script>
+  <script src="https://nitdgp.ac.in/front/assets/js/owl.carousel.js" type="text/javascript">
+  </script>
+  <!-- <script type="text/javascript" src=""></script>
+        <script type="text/javascript" src=""></script> -->
+  <script src="https://nitdgp.ac.in/front/assets/js/jquery-ui.js" type="text/javascript">
+  </script>
+  <script src="https://nitdgp.ac.in/front/assets/js/custom-script.js" type="text/javascript">
+  </script>
+  <script>
+   $(function() {
+                                                $(".video").click(function () {
+                                                  var theModal = $(this).data("target"),
+                                                  videoSRC = $(this).attr("data-video"),
+                                                  videoSRCauto = videoSRC + "?modestbranding=1&rel=0&controls=0&showinfo=0&html5=1&autoplay=1";
+
+                                                  $(theModal + " iframe").attr("src", videoSRCauto);
+                                                  $(theModal + " button.close").click(function () {
+                                                        $(theModal + " iframe").attr("src", videoSRC);
+                                                  });
+                                                });
+                                                 $("#videoModal").on("hidden.bs.modal", function () {
+
+                                                                 $("#videoModal iframe").attr("src", "");
+
+                                                });
+                                          });
+                                          function sendtitle(value)   
+                                          {
+
+                                                document.getElementById("modaltitle").innerHTML=value;
+                                          }
+  </script>
+  <input id="base_url_value" name="base_url_value" type="hidden" value="https://nitdgp.ac.in/">
+   <!-- <script>
+                $(function(){
+                        $( ".contact-acco" ).accordion({
+                                heightStyle: "content",
+                                active: false,
+                                collapsible: true,
+                        });
+                });
+        </script> -->
+   <!-- <script>
+  function counter_fn() {
+
+    var counter = document.getElementById("cntr");
+
+    var count = 0;
+
+    count = parseInt(counter.innerText);
+
+    count = count + 1;
+
+    counter.innerText = count;
+
+  }
+
+  window.onload = counter_fn;
+</script> -->
+  </input>
+ </body>
+</html>
+
+<class 'bs4.element.NavigableString'>
+<class 'bs4.BeautifulSoup'>
+<class 'bs4.element.Tag'>
+[]
+PS C:\Users\LENOVO\.vscode\python> 
